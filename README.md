@@ -14,6 +14,7 @@ Structure
 - Main file: script.ipynb
 - Data file 1: sup_event.csv (game events in the supervised condition)
 - Data file 2: aut_event.csv (game events in the autonomous condition)
+- Figs folder: where figures are generated
 
 How to use:
 ----------
